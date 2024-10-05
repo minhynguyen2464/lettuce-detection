@@ -1,7 +1,6 @@
 Flask
 Gunicorn
 numpy
-PIL
+Pillow
 tourchvision
-io
 onnxruntime
