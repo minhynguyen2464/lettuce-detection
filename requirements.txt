@@ -1,2 +1,7 @@
 Flask
 Gunicorn
+numpy
+PIL
+tourchvision
+io
+onnxruntime
