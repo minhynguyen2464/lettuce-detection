@@ -2,5 +2,6 @@ Flask
 Gunicorn
 numpy
 Pillow
+torch
 tourchvision
 onnxruntime
